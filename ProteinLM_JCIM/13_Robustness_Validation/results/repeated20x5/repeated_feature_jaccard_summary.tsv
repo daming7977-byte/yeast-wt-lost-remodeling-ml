@@ -1,0 +1,2 @@
+n_compact_models	n_pairwise_comparisons	jaccard_mean	jaccard_median	jaccard_q025	jaccard_q975
+100	4950	0.21409908609908607	0.14285714285714285	0.0	0.6

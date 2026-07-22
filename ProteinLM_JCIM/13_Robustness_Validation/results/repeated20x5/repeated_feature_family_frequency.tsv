@@ -1,0 +1,6 @@
+family	selection_count	mean_features_per_fold	share_of_all_selected_slots
+physicochemical_composition	158	1.58	0.395
+tmd_organization_position	137	1.37	0.3425
+localization	54	0.54	0.135
+membrane_topology	36	0.36	0.09
+functional_annotation	15	0.15	0.0375

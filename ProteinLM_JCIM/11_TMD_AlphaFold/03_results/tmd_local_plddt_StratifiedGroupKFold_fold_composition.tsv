@@ -1,0 +1,6 @@
+fold	n_train_TMDs	n_test_TMDs	n_train_positive_TMDs	n_test_positive_TMDs	n_train_genes	n_test_genes	gene_overlap_count
+1	4022	1005	97	24	801	195	0
+2	4022	1005	97	24	794	202	0
+3	4023	1004	98	23	798	198	0
+4	4022	1005	97	24	796	200	0
+5	4019	1008	95	26	795	201	0

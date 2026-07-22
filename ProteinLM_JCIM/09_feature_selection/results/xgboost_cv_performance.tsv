@@ -1,0 +1,2 @@
+model	feature_set	n_features	roc_auc_mean	roc_auc_sd	pr_auc_mean	pr_auc_sd
+XGBoost	protein_feature_matrix_v2_enriched	46	0.5762253371383806	0.053540144221489026	0.12372205373111393	0.02933706615200024

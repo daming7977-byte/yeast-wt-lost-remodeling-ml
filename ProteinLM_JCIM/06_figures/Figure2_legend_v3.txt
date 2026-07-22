@@ -1,0 +1,5 @@
+Figure 2. Protein-level benchmarking of engineered, sequence-based, and AlphaFold-derived representations for prediction of WT-lost remodeling susceptibility.
+
+(A) Comparison of protein-level representations using Random Forest classification and five-fold stratified cross-validation. The benchmark included the complete 46-descriptor engineered representation, full-protein ESM2-35M and ESM2-650M embeddings, and hybrid representations combining a 16-feature traditional descriptor set with the corresponding ESM2 embeddings. Bars show mean ROC-AUC across cross-validation folds, and error bars indicate the standard deviation. Mean PR-AUC values are shown within the corresponding bars. The dashed horizontal line indicates the random-classification reference value for ROC-AUC.
+
+(B) Evaluation of global AlphaFold-derived descriptors on the matched subset of 996 proteins with available structural features. Logistic Regression models were evaluated using the four-feature Minimal Interpretable Feature Set (MIFS), 13 global AlphaFold-derived descriptors, or their combined 17-feature representation. Performance metrics are displayed as in panel A.

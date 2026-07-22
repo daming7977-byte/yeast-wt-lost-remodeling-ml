@@ -1,0 +1,5 @@
+feature	standardized_coefficient	direction	exp_coefficient
+n_tmd	0.372515191608718	positive	1.4513805277807548
+tmd_negative_fraction_std	0.2412028887433256	positive	1.272779241694637
+mean_tmd_gap	-0.06700252139522503	negative	0.9351928433430342
+loc_er	-0.3144233691724897	negative	0.7302098143833939

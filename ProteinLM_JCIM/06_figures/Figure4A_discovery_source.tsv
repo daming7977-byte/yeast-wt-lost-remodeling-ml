@@ -1,0 +1,3 @@
+stage	roc_auc_mean	roc_auc_sd	pr_auc_mean	pr_auc_sd	features
+Top5 fixed subset	0.6734801633932068	0.0378307413136922	0.1495729261416176	0.020749962872779	is_transporter_like,mean_tmd_gap,tmd_negative_fraction_std,n_tmd,loc_er
+Four-feature MIFS fixed subset	0.671584242627721	0.0378275473714364	0.1504223774281943	0.0226153623404439	loc_er,mean_tmd_gap,n_tmd,tmd_negative_fraction_std

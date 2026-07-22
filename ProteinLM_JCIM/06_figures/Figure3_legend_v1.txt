@@ -1,0 +1,7 @@
+Figure 3. Gene-grouped evaluation of sequence-representation scale and local AlphaFold confidence profiles at the TMD level.
+
+(A) Comparison of conventional TMD descriptors, TMD-centered ESM2 embeddings, full-protein ESM2 embeddings assigned to individual TMD observations, and a combined representation containing 18 traditional descriptors plus full-protein and TMD-centered ESM2 embeddings. Random Forest models were evaluated using five-fold GroupKFold with gene identity as the grouping variable, preventing TMDs from the same protein from appearing in both training and test partitions. The analysis included 5,028 TMDs from 997 genes, including 121 WT-lost TMDs.
+
+(B) Evaluation of 15 traditional TMD descriptors, 35 local AlphaFold-derived pLDDT descriptors covering TMDs and flanking regions, and their combined 50-feature representation. XGBoost models were evaluated using five-fold StratifiedGroupKFold grouped by gene. The analysis included 5,027 TMDs from 996 genes, including 121 WT-lost TMDs; gene overlap between training and test partitions was zero in every fold.
+
+In both panels, bars show mean ROC-AUC across cross-validation folds, error bars indicate the standard deviation, and mean PR-AUC values are shown within the corresponding bars. The dashed horizontal line indicates the random-classification reference value for ROC-AUC. Results from these TMD-level analyses are interpreted separately from the primary protein-level susceptibility benchmark.

@@ -1,0 +1,2 @@
+analysis	n_folds	roc_auc_mean	roc_auc_sd	pr_auc_mean	pr_auc_sd
+nested_foldwise_xgboost_ranking_then_logistic_MIFS_like_top4	5	0.6324785686307426	0.05425133660636806	0.14869975001515998	0.06222183982110494

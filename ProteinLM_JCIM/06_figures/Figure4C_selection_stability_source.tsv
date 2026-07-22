@@ -1,0 +1,12 @@
+feature	selection_count	selection_frequency	display_name	is_full_data_mifs	plot_label
+tmd_negative_fraction_std	4	0.8	TMD negative-charge variability	True	TMD negative-charge variability (MIFS)
+mean_relative_tmd_position	4	0.8	Mean relative TMD position	False	Mean relative TMD position
+mean_tmd_gap	2	0.4	Mean inter-TMD gap	True	Mean inter-TMD gap (MIFS)
+n_tmd	2	0.4	TMD number	True	TMD number (MIFS)
+tmd_hydrophobicity_min	2	0.4	Minimum TMD hydrophobicity	False	Minimum TMD hydrophobicity
+min_relative_tmd_position	2	0.4	Minimum relative TMD position	False	Minimum relative TMD position
+tmd_positive_fraction_mean	1	0.2	Mean TMD positive-charge fraction	False	Mean TMD positive-charge fraction
+loc_mitochondrion	1	0.2	Mitochondrial localization	False	Mitochondrial localization
+protein_DE_fraction	1	0.2	Protein acidic-residue fraction	False	Protein acidic-residue fraction
+tmd_length_std	1	0.2	TMD length variability	False	TMD length variability
+loc_er	0	0.0	ER localization	True	ER localization (MIFS)

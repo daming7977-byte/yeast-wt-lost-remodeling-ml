@@ -1,0 +1,10 @@
+is_transporter_like
+mean_tmd_gap
+tmd_negative_fraction_std
+n_tmd
+loc_er
+tmd_positive_fraction_mean
+tmd_positive_fraction_std
+is_transferase_like
+tmd_hydrophobicity_mean
+tmd_hydrophobicity_min

@@ -1,0 +1,7 @@
+label	feature_set	model	n_features	roc	roc_sd	pr	pr_sd	panel
+"Traditional-15
+TMD descriptors"	traditional_TMD	XGBoost	15	0.4869424964808096	0.0801791532942353	0.0263779563906649	0.0036418232376886	B
+"Local AlphaFold
+pLDDT"	local_AF_plddt	XGBoost	35	0.614283122013412	0.0367720016982864	0.0517681177701225	0.0151132279855415	B
+"Traditional-15 +
+local AlphaFold"	traditional_plus_local_AF	XGBoost	50	0.6002673742017023	0.0279745242112767	0.0544630883271745	0.029546853563092	B

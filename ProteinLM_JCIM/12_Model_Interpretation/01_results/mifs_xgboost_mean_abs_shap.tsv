@@ -1,0 +1,5 @@
+feature	feature_label	mean_abs_shap
+mean_tmd_gap	Mean TMD gap	0.7437026
+tmd_negative_fraction_std	TMD negative-charge variability	0.42823312
+loc_er	ER localization	0.26564217
+n_tmd	Number of TMDs	0.2487737

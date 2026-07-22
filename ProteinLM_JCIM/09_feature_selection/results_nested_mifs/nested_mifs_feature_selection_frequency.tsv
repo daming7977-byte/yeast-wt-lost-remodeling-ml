@@ -1,0 +1,11 @@
+feature	selection_count	selection_frequency
+mean_relative_tmd_position	4	0.8
+tmd_negative_fraction_std	4	0.8
+mean_tmd_gap	2	0.4
+min_relative_tmd_position	2	0.4
+n_tmd	2	0.4
+tmd_hydrophobicity_min	2	0.4
+loc_mitochondrion	1	0.2
+protein_DE_fraction	1	0.2
+tmd_length_std	1	0.2
+tmd_positive_fraction_mean	1	0.2

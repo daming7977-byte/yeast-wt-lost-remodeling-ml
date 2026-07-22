@@ -1,0 +1,10 @@
+Project:
+Paper2 JCIM
+
+Python:
+Python 3.11.15
+
+Torch: 2.12.1
+Transformers: 5.12.1
+MPS: True
+Platform: macOS-26.5.1-arm64-arm-64bit
